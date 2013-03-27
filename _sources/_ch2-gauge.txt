@@ -1,0 +1,26 @@
+Gauge / Watershed (gr = Gauge, r=Tops)
+======================================
+
+climatology
+-----------
+
+Table 18 Gauge data
+
+.. figure:: gauge-runoff-climatology.png
+   :alt: 
+
+fig. climatology curve of gauge runoff (gr) and model runoff (r), in cms
+
+scatterplot
+-----------
+
+|image0| fig. climatology curve of gauge runoff (gr) and model runoff
+(r), in cms
+
+Mean seasonal cycle
+-------------------
+
+.. figure:: gauge-runoff-seasonal.png
+   :alt: 
+
+.. |image0| image:: gauge-runoff-scatter.png

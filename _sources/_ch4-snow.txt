@@ -1,0 +1,10 @@
+SWE / 0d isothermal area
+========================
+
+Mean seasonal cycle
+-------------------
+
+.. figure:: swe_snow-seasonal-cycle.png
+   :alt: 
+
+fig. Comparison of the seasonality of SWE and Ta in 18 watersheds

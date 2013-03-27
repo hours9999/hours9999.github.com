@@ -1,0 +1,10 @@
+Fluxtower
+=========
+
+Scatter plot
+============
+
+|image0| |image1|
+
+.. |image0| image:: et
+.. |image1| image:: gpp

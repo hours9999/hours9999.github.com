@@ -1,0 +1,22 @@
+Gauge / Watershed
+=================
+
+climatology
+-----------
+
+Table 18 Gauge data
+
+|image0| outflow.curve
+
+scatterplot
+-----------
+
+.. figure:: outflow%20scatterplot
+   :alt: 
+
+Mean seasonal cycle
+-------------------
+
+[]
+
+.. |image0| image:: outflow%20curve

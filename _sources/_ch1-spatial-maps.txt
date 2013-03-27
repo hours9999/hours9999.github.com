@@ -1,0 +1,111 @@
+1. Maps of TOPS model output
+============================
+
+Annual mean of precipitation
+----------------------------
+
+|image0| fig. Annual mean of precipitation from 1950-1959
+
+|image1| fig. Annual mean of precipitation from 1980-1989
+
+|image2| fig. Annual mean of precipitation from 2000-2009
+
+Annual mean of ET
+-----------------
+
+|image3| fig. Annual mean of evapotranspriation from 1950-1959
+
+|image4| fig. Annual mean of evapotranspriation from 1980-1989
+
+|image5| fig. Annual mean of evapotranspriation from 2000-2009
+
+Annual mean of ET / prcp
+------------------------
+
+|image6| fig. Annual mean of ET/P from 1950-1959
+
+|image7| fig. Annual mean of ET/P from 1980-1989
+
+|image8| fig. Annual mean of ET/P from 2000-2009
+
+Annual mean of runoff
+---------------------
+
+|image9| fig. Annual mean of runoff from 1950-1959
+
+|image10| fig. Annual mean of runoff from 1980-1989
+
+|image11| fig. Annual mean of runoff from 2000-2009
+
+Annual mean of runoff/P
+-----------------------
+
+|image12| fig. Annual mean of runoff/P from 1950-1959
+
+|image13| fig. Annual mean of runoff/P from 1980-1989
+
+|image14| fig. Annual mean of runoff/P from 2000-2009
+
+Max SWE
+-------
+
+|image15| fig. Max SWE from 1950-1959
+
+|image16| fig. Max SWE from 1980-1989
+
+|image17| fig. Max SWE from 2000-2009
+
+Min SWE
+-------
+
+|image18| fig. Min SWE from 1950-1959
+
+|image19| fig. Min SWE from 1980-1989
+
+|image20| fig. Min SWE from 2000-2009
+
+delta SWE
+---------
+
+|image21| fig. Delta SWE from 1950-1959
+
+|image22| fig. Delta SWE from 1980-1989
+
+|image23| fig. Delta SWE from 2000-2009
+
+delta SWE/P
+-----------
+
+|image24| fig. Delta SWE/P from 1950-1959
+
+|image25| fig. Delta SWE/P from 1980-1989
+
+|image26| fig. Delta SWE/P from 2000-2009
+
+.. |image0| image:: prcp.1950-1959.annual_mean.png
+.. |image1| image:: prcp.1980-1989.annual_mean.png
+.. |image2| image:: prcp.2000-2009.annual_mean.png
+.. |image3| image:: 641.1950-1959.annual_mean.png
+.. |image4| image:: 641.1980-1989.annual_mean.png
+.. |image5| image:: 641.2000-2009.annual_mean.png
+.. |image6| image:: 641_d_p.1950-1959.annual_mean.png
+.. |image7| image:: 641_d_p.1980-1989.annual_mean.png
+.. |image8| image:: 641_d_p.2000-2009.annual_mean.png
+.. |image9| image:: 44.1950-1959.annual_mean.png
+.. |image10| image:: 44.1980-1989.annual_mean.png
+.. |image11| image:: 44.2000-2009.annual_mean.png
+.. |image12| image:: 44_d_p.1950-1959.annual_mean.png
+.. |image13| image:: 44_d_p.1980-1989.annual_mean.png
+.. |image14| image:: 44_d_p.2000-2009.annual_mean.png
+.. |image15| image:: maxSWE.1950-1959.png
+.. |image16| image:: maxSWE.1980-1989.png
+.. |image17| image:: maxSWE.2000-2009.png
+.. |image18| image:: minSWE.1950-1959.png
+.. |image19| image:: minSWE.1980-1989.png
+.. |image20| image:: minSWE.2000-2009.png
+.. |image21| image:: deltaSWE.1950-1959.png
+.. |image22| image:: deltaSWE.1980-1989.png
+.. |image23| image:: deltaSWE.2000-2009.png
+.. |image24| image:: deltaSWE_d_p.1950-1959.png
+.. |image25| image:: deltaSWE_d_p.1980-1989.png
+.. |image26| image:: deltaSWE_d_p.2000-2009.png

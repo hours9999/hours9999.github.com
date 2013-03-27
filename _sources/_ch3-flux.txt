@@ -1,0 +1,13 @@
+Fluxtower
+=========
+
+Scatter plot
+============
+
+.. figure:: et
+   :alt: 
+
+.. figure:: gpp
+   :alt: 
+
+
